@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">Aspiring third year college student, Surya, pursuing Btech CSE with specialization in AIML with an aim to change the world through my skills and knowledge.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/874402083903433093/)")
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/874402083903433093/)">
 
 - 🔭 I’m currently working on **TaleForge**
 
