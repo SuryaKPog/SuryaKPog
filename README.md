@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">Aspiring third year college student, Surya, pursuing Btech CSE with specialization in AIML with an aim to change the world through my skills and knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakpog&label=Profile%20views&color=0e75b6&style=flat" alt="suryakpog" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakpog" alt="suryakpog" /></a> </p>
-
 - 🔭 I’m currently working on **TaleForge**
 
 - 💬 Ask me about **Collaborations**
